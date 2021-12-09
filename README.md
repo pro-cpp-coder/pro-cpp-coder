@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pro-cpp-coder
 - 👀 I’m interested in Cpp projects
-- 🌱 One of my prime golas in life is to solve the most complex languagues in the world with cpp
+- 🌱 One of my prime goals in life is to solve the most complex languagues in the world with cpp
 - 💞️ I’m looking to collaborate on cpp projects.
 - 📫 How to reach me johnjoy597@outlook.com
 
